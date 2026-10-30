@@ -1,0 +1,12 @@
+# Certificates and private keys
+certs/
+*.key
+*.pem
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.tmp
